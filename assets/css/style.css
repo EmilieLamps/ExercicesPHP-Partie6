@@ -1,0 +1,17 @@
+h1{
+  font-size: 45px;
+}
+.navbar-brand{
+  font-size: 30px;
+}
+.nav-link {
+  font-size: 25px;
+}
+h2{
+  font-size: 40px;
+}
+body{
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
